@@ -1,0 +1,15 @@
+.container {
+    margin: 20px;
+}
+
+.text-input {
+    width: 100%;
+    padding: 10px;
+    color: grey;
+}
+
+.generate-button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+}
