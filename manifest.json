@@ -7,6 +7,12 @@
     "32": "icons/fastmail.png"
   },
 
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "masked-email-extension@dxuuu.xyz"
+    }
+  },
+
   "browser_action": {
     "default_icon": {
      "32" : "icons/fastmail.png"
