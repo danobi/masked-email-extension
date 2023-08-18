@@ -2,7 +2,7 @@
   "description": "Basic extension to create Fastmail masked emails on the fly",
   "manifest_version": 2,
   "name": "Masked email",
-  "version": "0.1",
+  "version": "0.2",
   "icons": {
     "32": "icons/fastmail.png"
   },
@@ -26,7 +26,6 @@
   },
 
   "permissions": [
-    "storage",
-    "<all_urls>"
+    "storage"
   ]
 }
