@@ -12,7 +12,7 @@
      "32" : "icons/fastmail.png"
     },
     "default_title": "Masked email",
-    "default_popup": "popup/new.html"
+    "default_popup": "popup/generate.html"
   },
 
   "options_ui": {
