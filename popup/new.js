@@ -16,6 +16,4 @@ function generate() {
 };
 
 // Add click event listener to the button
-button.addEventListener("click", generate, {
-    once: true,
-});
+button.addEventListener("click", generate);
